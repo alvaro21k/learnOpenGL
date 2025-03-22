@@ -1,5 +1,4 @@
 ﻿  main.cpp
-C:\Users\Alvaro\Documents\Workspace\openGLtutorial\learnOpenGl\main.cpp(82,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
 glfw3.lib(init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(init.obj)' or at ''; linking object as if no debug info
 glfw3.lib(window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(window.obj)' or at ''; linking object as if no debug info
 glfw3.lib(input.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(input.obj)' or at ''; linking object as if no debug info
