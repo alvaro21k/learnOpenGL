@@ -134,11 +134,11 @@
   <ItemGroup>
     <ClCompile Include="..\..\..\..\Downloads\glad\src\glad.c" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="shaders\shader.cpp" />
     <ClCompile Include="stb_image_file.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\..\..\OpenGL\include\stb_image.h" />
+    <ClInclude Include="camera\camera.h" />
     <ClInclude Include="shaders\shader.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
