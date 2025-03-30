@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Alvaro\\Documents\\Workspace\\openGLtutorial\\learnOpenGl\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DCF2D78E-C752-4753-9232-2D07587463C8}|learnOpenGl.vcxproj|C:\\Users\\Alvaro\\Documents\\Workspace\\openGLtutorial\\learnOpenGl\\shaders\\shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DCF2D78E-C752-4753-9232-2D07587463C8}|learnOpenGl.vcxproj|solutionrelative:shaders\\shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DCF2D78E-C752-4753-9232-2D07587463C8}|learnOpenGl.vcxproj|C:\\Users\\Alvaro\\Documents\\Workspace\\openGLtutorial\\learnOpenGl\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DCF2D78E-C752-4753-9232-2D07587463C8}|learnOpenGl.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCF2D78E-C752-4753-9232-2D07587463C8}|learnOpenGl.vcxproj|C:\\Users\\Alvaro\\Documents\\Workspace\\openGLtutorial\\learnOpenGl\\camera\\camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DCF2D78E-C752-4753-9232-2D07587463C8}|learnOpenGl.vcxproj|solutionrelative:camera\\camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alvaro\\Documents\\Workspace\\openGLtutorial\\learnOpenGl\\shaders\\shader.vs||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:shaders\\shader.vs||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alvaro\\Documents\\Workspace\\openGLtutorial\\learnOpenGl\\shaders\\shader.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:shaders\\shader.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+      "AbsoluteMoniker": "D:0:0:{DCF2D78E-C752-4753-9232-2D07587463C8}|learnOpenGl.vcxproj|C:\\Users\\Alvaro\\Documents\\Workspace\\openGLtutorial\\learnOpenGl\\shaders\\shader.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{DCF2D78E-C752-4753-9232-2D07587463C8}|learnOpenGl.vcxproj|solutionrelative:shaders\\shader.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF2D78E-C752-4753-9232-2D07587463C8}|learnOpenGl.vcxproj|C:\\Users\\Alvaro\\Documents\\Workspace\\openGLtutorial\\learnOpenGl\\camera\\camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DCF2D78E-C752-4753-9232-2D07587463C8}|learnOpenGl.vcxproj|solutionrelative:camera\\camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF2D78E-C752-4753-9232-2D07587463C8}|learnOpenGl.vcxproj|C:\\Users\\Alvaro\\Documents\\Workspace\\openGLtutorial\\learnOpenGl\\shaders\\shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DCF2D78E-C752-4753-9232-2D07587463C8}|learnOpenGl.vcxproj|solutionrelative:shaders\\shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alvaro\\Documents\\Workspace\\openGLtutorial\\learnOpenGl\\shaders\\lightshader.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:shaders\\lightshader.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,44 +42,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "lightshader.fs",
+              "DocumentMoniker": "C:\\Users\\Alvaro\\Documents\\Workspace\\openGLtutorial\\learnOpenGl\\shaders\\lightshader.fs",
+              "RelativeDocumentMoniker": "shaders\\lightshader.fs",
+              "ToolTip": "C:\\Users\\Alvaro\\Documents\\Workspace\\openGLtutorial\\learnOpenGl\\shaders\\lightshader.fs",
+              "RelativeToolTip": "shaders\\lightshader.fs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-30T15:47:22.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "camera.h",
               "DocumentMoniker": "C:\\Users\\Alvaro\\Documents\\Workspace\\openGLtutorial\\learnOpenGl\\camera\\camera.h",
               "RelativeDocumentMoniker": "camera\\camera.h",
               "ToolTip": "C:\\Users\\Alvaro\\Documents\\Workspace\\openGLtutorial\\learnOpenGl\\camera\\camera.h",
               "RelativeToolTip": "camera\\camera.h",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAAMAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-25T16:31:54.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T16:31:54.601Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "shader.fs",
               "DocumentMoniker": "C:\\Users\\Alvaro\\Documents\\Workspace\\openGLtutorial\\learnOpenGl\\shaders\\shader.fs",
               "RelativeDocumentMoniker": "shaders\\shader.fs",
               "ToolTip": "C:\\Users\\Alvaro\\Documents\\Workspace\\openGLtutorial\\learnOpenGl\\shaders\\shader.fs",
               "RelativeToolTip": "shaders\\shader.fs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-22T17:09:02.301Z"
+              "WhenOpened": "2025-03-22T17:09:02.301Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "shader.vs",
               "DocumentMoniker": "C:\\Users\\Alvaro\\Documents\\Workspace\\openGLtutorial\\learnOpenGl\\shaders\\shader.vs",
               "RelativeDocumentMoniker": "shaders\\shader.vs",
               "ToolTip": "C:\\Users\\Alvaro\\Documents\\Workspace\\openGLtutorial\\learnOpenGl\\shaders\\shader.vs",
               "RelativeToolTip": "shaders\\shader.vs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-22T17:08:29.739Z"
+              "WhenOpened": "2025-03-22T17:08:29.739Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "shader.h",
               "DocumentMoniker": "C:\\Users\\Alvaro\\Documents\\Workspace\\openGLtutorial\\learnOpenGl\\shaders\\shader.h",
               "RelativeDocumentMoniker": "shaders\\shader.h",
@@ -83,18 +100,17 @@
               "RelativeToolTip": "shaders\\shader.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAKYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-22T16:39:36.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T16:39:36.585Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\Alvaro\\Documents\\Workspace\\openGLtutorial\\learnOpenGl\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\Alvaro\\Documents\\Workspace\\openGLtutorial\\learnOpenGl\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAAAFEAAAAcAAAA",
+              "ViewState": "AQIAALoAAAAAAAAAAAAUwMgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-08T13:36:33.716Z",
               "EditorCaption": ""
