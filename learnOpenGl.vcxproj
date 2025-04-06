@@ -135,6 +135,8 @@
     <ClCompile Include="..\..\..\..\Downloads\glad\src\glad.c" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="mesh\mesh.cpp" />
+    <ClCompile Include="mesh\model.cpp" />
+    <ClCompile Include="mesh\model.h" />
     <ClCompile Include="stb_image_file.cpp" />
   </ItemGroup>
   <ItemGroup>
