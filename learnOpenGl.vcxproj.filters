@@ -27,12 +27,15 @@
     <ClCompile Include="mesh\mesh.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="mesh\model.h">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="mesh\model.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+=======
+>>>>>>> a8507619748633865999287fa95da7d1ff257e88
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="shaders\shader.h">

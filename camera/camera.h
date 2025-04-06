@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 #pragma once
+=======
+#ifndef CAMERA_H
+#define CAMERA_H
+
+>>>>>>> a8507619748633865999287fa95da7d1ff257e88
 #include <glad/glad.h>
 #include <GLM/glm.hpp>
 #include <GLM/gtc/matrix_transform.hpp>
@@ -122,4 +128,9 @@ private:
         Right = glm::normalize(glm::cross(Front, WorldUp));  // normalize the vectors, because their length gets closer to 0 the more you look up or down which results in slower movement.
         Up = glm::normalize(glm::cross(Right, Front));
     }
+<<<<<<< HEAD
 };
+=======
+};
+#endif
+>>>>>>> a8507619748633865999287fa95da7d1ff257e88
