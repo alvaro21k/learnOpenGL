@@ -1,10 +1,5 @@
 
-<<<<<<< HEAD
 #pragma once
-=======
-#ifndef SHADER_H
-#define SHADER_H
->>>>>>> a8507619748633865999287fa95da7d1ff257e88
 
 #include <glad/glad.h>
 #include <glm/glm.hpp>
@@ -167,7 +162,4 @@
             }
         }
     };
-<<<<<<< HEAD
-=======
-#endif
->>>>>>> a8507619748633865999287fa95da7d1ff257e88
+

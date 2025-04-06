@@ -6,7 +6,7 @@ void Model::Draw(Shader& shader)
 		meshes[i].Draw(shader);
 }
 
-void Model::loadModel(const std::string &path)
+void Model::loadModel(std::string const &path)
 {
 	Assimp::Importer import;
 	const aiScene *scene = import.ReadFile(path, aiProcess_Triangulate | aiProcess_FlipUVs);
